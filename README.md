@@ -40,7 +40,7 @@ Nós somos feitos dos resultados e da prática de grandes players do mercado atu
 <br>
 
 
-# ✔️ Autor
+# ✔️ Autores
 - Wellington Bertolassi
 - [@Ton-devstart](https://github.com/Ton-devstart)😄
 <br>

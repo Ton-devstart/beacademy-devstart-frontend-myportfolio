@@ -1,7 +1,0 @@
-* {margin: 0; padding: 0; box-sizing: border-box;}
-
-body {display: grid; height: 100vh; 
-    grid-template-areas: 
-    "header header"
-    "main"
-    "footer footer";}
